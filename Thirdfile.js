@@ -3,13 +3,13 @@ function Hello (name) {
     console.log("Hello Casper...");
     }else{
 
-        
-    console.log  ("Hello", name + "!");
+
+    console.log("Hello", name + "!");
     }
 }
 
-Hello(Charlton)
+Hello("Charlton")
 Hello()
-Hello(Daniel) 
-Hello(Lucian)
-Hello(Dunyiswa)
+Hello("Daniel") 
+Hello("Lucian")
+Hello("Dunyiswa")
